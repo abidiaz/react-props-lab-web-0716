@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+// import ReactDOM from 'react-dom';
 
 // const colors = [];
 
@@ -27,7 +27,7 @@ Spaceship.defaultProps = {
   colors: ['black', 'red']
 };
 
-ReactDOM.render(<Spaceship />, document.getElementById('main'));
+// ReactDOM.render(<Spaceship />, document.getElementById('main'));
 
 
 module.exports = Spaceship;
